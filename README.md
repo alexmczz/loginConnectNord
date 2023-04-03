@@ -11,7 +11,7 @@ Once you have the tool installed, clone the repository and navigate to the proje
 
 ## Usage
 
-To use the NordVPN CLI client, run the `nordvpn_cli.py` script with Python:
+To use the NordVPN CLI client, run the `connect_nord.py` script with Python:
 
 
 The script will prompt you to log in to your NordVPN account:
